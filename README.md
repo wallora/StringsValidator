@@ -17,6 +17,8 @@ The command is also available under Edit -> Validate Strings menu.
 
 An alert will show you every line containing an error.
 
+![image](screenshots/screenshot1.png)
+
 ### License
 
 MIT License
