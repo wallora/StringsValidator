@@ -6,8 +6,8 @@ A Xcode plugin for validating strings in your projects and finding errors easily
 - validate all the strings in a .strings file
 - find all lines containing errors
 
-### Install
-Clone this repo, Build the project, then quit from Xcode.
+### Installation
+Install through [Alcatraz](https://github.com/supermarin/Alcatraz) or clone this repo and build the project, then quit from Xcode.
 Reopen Xcode and choose "Load Bundle" on dialog and it's done!
 
 ### Usage
